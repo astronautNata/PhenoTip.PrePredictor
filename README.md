@@ -10,9 +10,11 @@ Project contains 4 folders:
   <li>predictions - R scripts to analyze predictions for each ML model</li>
 </ol>
 
-Enviroment used in this analysis:
-R version: 3.3.1
-Platform: x86_64-pc-linux-gnu (64-bit)
+Enviroment used in this analysis:<br>
+<ul>
+  <li>R version: 3.3.1</li>
+  <li>Platform: x86_64-pc-linux-gnu (64-bit)</li>
+</ul>
 
 R packages used in this analysis:
 <ul>
